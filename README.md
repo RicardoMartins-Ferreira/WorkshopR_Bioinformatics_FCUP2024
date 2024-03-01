@@ -1,9 +1,9 @@
 # WorkshopR_Bioinformatics_FCUP2024
 Introduction to bioinformatics in R: from basics to multi-omics
 
-##Overview
+## Overview
 
-###Intructor name, contact and information
+### Intructor name, contact and information
 
 Ricardo Martins Ferreira
 
