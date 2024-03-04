@@ -7,7 +7,7 @@ Introduction to bioinformatics in R: from basics to multi-omics
 
 Ricardo Martins Ferreira
 
-ramferreira@icbas.up.pt
+- ramferreira@icbas.up.pt
 
 - rmferreira1994@gmail.com
 
@@ -16,3 +16,6 @@ ramferreira@icbas.up.pt
 - https://www.researchgate.net/profile/Ricardo-Martins-Ferreira 
 
 - https://www.linkedin.com/in/ricardo-ferreira-135503241/
+
+### Workshop description
+
