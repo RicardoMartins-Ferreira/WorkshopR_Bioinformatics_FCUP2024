@@ -16,7 +16,8 @@ This repository provided teaching materiald for a 2 hour workshop on the applica
 
 ### Pre-requisites 
 Download the most recent versions of R and R studio:
-- [R](https://lib.stat.cmu.edu/R/CRAN/) 
+- [R](https://lib.stat.cmu.edu/R/CRAN/)
+- [Rtools](https://cran.r-project.org/bin/windows/Rtools/rtools42/rtools.html)
 - [RStudio](https://posit.co/download/rstudio-desktop/#download)
 
 ### Participation
