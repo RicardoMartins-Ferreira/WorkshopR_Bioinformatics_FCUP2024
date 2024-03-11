@@ -12,7 +12,7 @@ Ricardo Martins Ferreira
 - https://www.linkedin.com/in/ricardo-ferreira-135503241/
 
 ### Workshop description
-This repository provided teaching material for a 2 hour workshop on the application of R in bioinformatics. The participants do not require pre-requisites on computational skills. The workshop is divided in two part. The first will consist of an [introduction to R and R studio], and basic data visualization and descritpive statistics. The second part of the workshop approches the use of R in the analysis of large molecular biology omics datasets ([RNA-seq] - transcritptomics; [DNA methylation] - epigenetics). 
+This repository provided teaching material for a 2 hour workshop on the application of R in bioinformatics. The participants do not require pre-requisites on computational skills. The workshop is divided in two part. The first will consist of an [introduction to R and R studio], and basic data visualization and descritpive statistics. The second part of the workshop approches the use of R in the analysis of large molecular biology omics datasets ([RNA-seq] - transcritptomics). 
 
 ### Pre-requisites 
 Download the most recent versions of R and R studio:
